@@ -1,0 +1,8 @@
+# Local environment secrets
+.env
+config/*.py
+logs/
+__pycache__/
+*.log
+*.csv
+backtest_plots/
